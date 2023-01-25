@@ -3,13 +3,18 @@
 🌱 I’m currently learning:
 -   Vue 3 💚
 -   Godot 🤖
+-   Svelte Kit 🧡
+-   TS 🔣
+-   GH Actions 🔁
 
-Some experience in:
-- C++
+Have experience in:
+- C/C++
 - JS(ES6)
 - Bootstrap
+- Tailwind CSS
 - SCSS
-- Wordpress
+- Wordpress (php)
+- Networking
 - Python
 - Windows and Linux systems
 
