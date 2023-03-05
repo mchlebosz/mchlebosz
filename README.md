@@ -2,9 +2,8 @@
 👀 I’m interested in games 🎮, cars 🚗, motorcycles 🏍 and traveling ⛰  
 🌱 I’m currently learning:
 -   Vue 3 💚
--   Godot 🤖
 -   Svelte Kit 🧡
--   TS 🔣
+-   Rlang 📊
 -   GH Actions 🔁
 
 Have experience in:
@@ -13,14 +12,14 @@ Have experience in:
 - Bootstrap
 - Tailwind CSS
 - SCSS
-- Wordpress (php)
+- WordPress (PHP)
 - Networking
 - Python
 - Windows and Linux systems
 
 👨‍🎓 Currently student of Poznan University of Technology  
 
-💞️ I’m looking to collaborate on some responsive and a11ble apps 
+💞️ I’m looking to collaborate on some creative, responsive and a11ble apps 
 
 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/mateusz-chlebosz-65053a17a/)  
