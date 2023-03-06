@@ -3,7 +3,7 @@
 🌱 I’m currently learning:
 -   Vue 3 💚
 -   Svelte Kit 🧡
--   Rlang 📊
+-   R 📊
 -   GH Actions 🔁
 
 Have experience in:
