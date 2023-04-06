@@ -17,7 +17,7 @@ Have experience in:
 - Python
 - Windows and Linux systems
 
-👨‍🎓 Currently student of Poznan University of Technology  
+👨‍🎓 Currently student @ Poznan University of Technology  
 
 💞️ I’m looking to collaborate on some creative, responsive and a11ble apps 
 
