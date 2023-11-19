@@ -1,9 +1,7 @@
 👋 Hi, I’m @mchlebosz  
 👀 I’m interested in games 🎮, cars 🚗, motorcycles 🏍 and traveling ⛰  
 🌱 I’m currently learning:
--   Vue 3 💚
--   Svelte Kit 🧡
--   R 📊
+-   Docker 🐳
 -   GH Actions 🔁
 
 Have experience in:
